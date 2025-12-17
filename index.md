@@ -2,7 +2,7 @@
 
 ## Bio
 
-I am an undergraduate researcher focused on scientific AI for materials and nanomedicine.  
+I am an highschool researcher focused on scientific AI for materials and nanomedicine.  
 Broadly, I am interested in trustworthy AI systems that accelerate scientific discovery in high-stakes domains.  
 Especially, I work on structured reasoning for scientific LLMs—graph-based inference, tool-augmented verification, and multi-agent critique for nanobiomaterials design.
 
