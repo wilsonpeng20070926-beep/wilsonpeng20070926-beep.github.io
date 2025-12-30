@@ -2,12 +2,12 @@
 
 ## Bio
 
-I am an highschool researcher focused on scientific AI for materials and nanomedicine.  
+I am an high school researcher focused on scientific AI for materials and nanomedicine.  
 Broadly, I am interested in trustworthy AI systems that accelerate scientific discovery in high-stakes domains.  
 Especially, I work on structured reasoning for scientific LLMs—graph-based inference, tool-augmented verification, and multi-agent critique for nanobiomaterials design.
 
 I currently work with AIXC, where I explore reasoning architectures for safety-critical scientific workflows and research directions aligned with conference submissions.  
-I have attended [Conference 1] and plan to attend/submit to [Conference 2], with an emphasis on [topics you will explore as an intern / for submissions].
+I plan to attend/submit to AAAI, with an emphasis on LLM in Materials
 
 ---
 
